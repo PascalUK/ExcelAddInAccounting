@@ -7,7 +7,7 @@
         '
 
 
-        Dim FormPurshase As New FormPurshase()
+        Dim FormPurshase As New FormPurchase()
         FormPurshase.Show()
 
 

@@ -181,10 +181,10 @@
   -->
   <ItemGroup>
     <AppDesigner Include="My Project\" />
-    <Compile Include="FormPurshase.Designer.vb">
-      <DependentUpon>FormPurshase.vb</DependentUpon>
+    <Compile Include="FormPurchase.Designer.vb">
+      <DependentUpon>FormPurchase.vb</DependentUpon>
     </Compile>
-    <Compile Include="FormPurshase.vb">
+    <Compile Include="FormPurchase.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ThisAddIn.vb">
@@ -198,8 +198,8 @@
       <DependentUpon>ThisAddIn.Designer.xml</DependentUpon>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
-    <EmbeddedResource Include="FormPurshase.resx">
-      <DependentUpon>FormPurshase.vb</DependentUpon>
+    <EmbeddedResource Include="FormPurchase.resx">
+      <DependentUpon>FormPurchase.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
